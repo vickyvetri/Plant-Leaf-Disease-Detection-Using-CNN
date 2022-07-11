@@ -12,7 +12,7 @@ Run the Main.py file
 ```
 Enter the Input: GitHub User Name
 
-It's Gives Output Link
+Output Gives the Link eg:https://avatars.githubusercontent.com/u/88380451?v=4
 
-Click The link To See Profile Link
+Click The link To See Profile Image
 ```

@@ -2,4 +2,4 @@
 
 Demo image<br>
 
-<img src="Demo.jpg" width="600" height="300"/><br><br>
+<img src="Demo.JPG" width="600" height="300"/><br><br>
